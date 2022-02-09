@@ -1,0 +1,5 @@
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\DataAcces\bin\Debug\netstandard2.0\DataAcces.deps.json
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\DataAcces\bin\Debug\netstandard2.0\DataAcces.dll
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\DataAcces\obj\Debug\netstandard2.0\DataAcces.csprojAssemblyReference.cache
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\DataAcces\obj\Debug\netstandard2.0\DataAcces.AssemblyInfoInputs.cache
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\DataAcces\obj\Debug\netstandard2.0\DataAcces.AssemblyInfo.cs
