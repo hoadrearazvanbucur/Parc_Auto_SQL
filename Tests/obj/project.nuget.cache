@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4gxI3pig+fkAy5xvmF4v6bsD2SdoEV6MDsGz7fDhDennAfgPMGsCWOsbkqBVAOkKNcu2tMPJHc+JijXOPLRtoA==",
+  "dgSpecHash": "me7HN7LywTjoh4ZBsoEZkAe6IeFOMqFMfbSd9ule2Vl2GQB1sj3S/uNpIeSBQ5ZlbNl63jdQrl053D2hE8CQwA==",
   "success": true,
-  "projectFilePath": "D:\\1_PROGRAMARE\\C#\\Baza_De_Date\\Parc_Auto_SQL\\Tests\\Tests.csproj",
+  "projectFilePath": "D:\\1_PROGRAMARE\\C#\\Baza_De_Date\\Parc_Auto_Sql\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hoadrea Razvan\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\Hoadrea Razvan\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

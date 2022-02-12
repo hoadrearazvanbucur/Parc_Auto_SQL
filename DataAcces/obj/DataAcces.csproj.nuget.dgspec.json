@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\1_PROGRAMARE\\C#\\Baza_De_Date\\Parc_Auto_SQL\\DataAcces\\DataAcces.csproj": {}
+    "D:\\1_PROGRAMARE\\C#\\Baza_De_Date\\Parc_Auto_Sql\\DataAcces\\DataAcces.csproj": {}
   },
   "projects": {
-    "D:\\1_PROGRAMARE\\C#\\Baza_De_Date\\Parc_Auto_SQL\\DataAcces\\DataAcces.csproj": {
+    "D:\\1_PROGRAMARE\\C#\\Baza_De_Date\\Parc_Auto_Sql\\DataAcces\\DataAcces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1_PROGRAMARE\\C#\\Baza_De_Date\\Parc_Auto_SQL\\DataAcces\\DataAcces.csproj",
+        "projectUniqueName": "D:\\1_PROGRAMARE\\C#\\Baza_De_Date\\Parc_Auto_Sql\\DataAcces\\DataAcces.csproj",
         "projectName": "DataAcces",
-        "projectPath": "D:\\1_PROGRAMARE\\C#\\Baza_De_Date\\Parc_Auto_SQL\\DataAcces\\DataAcces.csproj",
+        "projectPath": "D:\\1_PROGRAMARE\\C#\\Baza_De_Date\\Parc_Auto_Sql\\DataAcces\\DataAcces.csproj",
         "packagesPath": "C:\\Users\\Hoadrea Razvan\\.nuget\\packages\\",
-        "outputPath": "D:\\1_PROGRAMARE\\C#\\Baza_De_Date\\Parc_Auto_SQL\\DataAcces\\obj\\",
+        "outputPath": "D:\\1_PROGRAMARE\\C#\\Baza_De_Date\\Parc_Auto_Sql\\DataAcces\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

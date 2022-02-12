@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\1_PROGRAMARE\\C#\\Baza_De_Date\\Parc_Auto_SQL\\Tests\\Tests.csproj": {}
+    "D:\\1_PROGRAMARE\\C#\\Baza_De_Date\\Parc_Auto_Sql\\Tests\\Tests.csproj": {}
   },
   "projects": {
-    "D:\\1_PROGRAMARE\\C#\\Baza_De_Date\\Parc_Auto_SQL\\Tests\\Tests.csproj": {
+    "D:\\1_PROGRAMARE\\C#\\Baza_De_Date\\Parc_Auto_Sql\\Tests\\Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1_PROGRAMARE\\C#\\Baza_De_Date\\Parc_Auto_SQL\\Tests\\Tests.csproj",
+        "projectUniqueName": "D:\\1_PROGRAMARE\\C#\\Baza_De_Date\\Parc_Auto_Sql\\Tests\\Tests.csproj",
         "projectName": "Tests",
-        "projectPath": "D:\\1_PROGRAMARE\\C#\\Baza_De_Date\\Parc_Auto_SQL\\Tests\\Tests.csproj",
+        "projectPath": "D:\\1_PROGRAMARE\\C#\\Baza_De_Date\\Parc_Auto_Sql\\Tests\\Tests.csproj",
         "packagesPath": "C:\\Users\\Hoadrea Razvan\\.nuget\\packages\\",
-        "outputPath": "D:\\1_PROGRAMARE\\C#\\Baza_De_Date\\Parc_Auto_SQL\\Tests\\obj\\",
+        "outputPath": "D:\\1_PROGRAMARE\\C#\\Baza_De_Date\\Parc_Auto_Sql\\Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

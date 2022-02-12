@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U0PXOepY/q2qUMikYtVe7/93tAEhMGBYZiweCyW8Tsp59P++vnmFIXyMLYxRiHQK0yp5Gv+3fp0ozlHCrKf5ew==",
+  "dgSpecHash": "b/NSBlpc5dxbpYL5VKrcqNzHNAXvDdq+JoQ5SpJja/BaQdraJIJBNJT5L1L0hcHpUwIYY3t0pXLZ4QJCS6cr4A==",
   "success": true,
-  "projectFilePath": "D:\\1_PROGRAMARE\\C#\\Baza_De_Date\\Parc_Auto_SQL\\DataAcces\\DataAcces.csproj",
+  "projectFilePath": "D:\\1_PROGRAMARE\\C#\\Baza_De_Date\\Parc_Auto_Sql\\DataAcces\\DataAcces.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hoadrea Razvan\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\Hoadrea Razvan\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
