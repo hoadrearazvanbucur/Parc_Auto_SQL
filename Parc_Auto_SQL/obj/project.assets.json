@@ -1372,11 +1372,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\1_PROGRAMARE\\C#\\Baza_De_Date\\Parc_Auto_Sql\\Parc_Auto_SQL\\App.csproj",
+      "projectUniqueName": "D:\\1_PROGRAMARE\\C#\\Baza_De_Date\\Parc_Auto_SQL\\Parc_Auto_SQL\\App.csproj",
       "projectName": "App",
-      "projectPath": "D:\\1_PROGRAMARE\\C#\\Baza_De_Date\\Parc_Auto_Sql\\Parc_Auto_SQL\\App.csproj",
+      "projectPath": "D:\\1_PROGRAMARE\\C#\\Baza_De_Date\\Parc_Auto_SQL\\Parc_Auto_SQL\\App.csproj",
       "packagesPath": "C:\\Users\\Hoadrea Razvan\\.nuget\\packages\\",
-      "outputPath": "D:\\1_PROGRAMARE\\C#\\Baza_De_Date\\Parc_Auto_Sql\\Parc_Auto_SQL\\obj\\",
+      "outputPath": "D:\\1_PROGRAMARE\\C#\\Baza_De_Date\\Parc_Auto_SQL\\Parc_Auto_SQL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -1396,8 +1396,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\1_PROGRAMARE\\C#\\Baza_De_Date\\Parc_Auto_Sql\\DataAcces\\DataAcces.csproj": {
-              "projectPath": "D:\\1_PROGRAMARE\\C#\\Baza_De_Date\\Parc_Auto_Sql\\DataAcces\\DataAcces.csproj"
+            "D:\\1_PROGRAMARE\\C#\\Baza_De_Date\\Parc_Auto_SQL\\DataAcces\\DataAcces.csproj": {
+              "projectPath": "D:\\1_PROGRAMARE\\C#\\Baza_De_Date\\Parc_Auto_SQL\\DataAcces\\DataAcces.csproj"
             }
           }
         }

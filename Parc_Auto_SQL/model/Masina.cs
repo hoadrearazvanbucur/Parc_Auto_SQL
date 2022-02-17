@@ -18,11 +18,17 @@ namespace App
             this.km = km;
             this.pret = pret;
         }
-        public override string ToString() => this.id + "," + this.marca + "," + this.model + "," + this.km + "," + this.pret;
-        public override bool Equals(object obj)
+        public Masina(string marca, string model, int km, int pret)
         {
-            return base.Equals(obj);
+            this.marca = marca;
+            this.model = model;
+            this.km = km;
+            this.pret = pret;
         }
+
+
+        public override string ToString() => this.id + "," + this.marca + "," + this.model + "," + this.km + "," + this.pret;
+        public override bool Equals(object obj) => (obj as Masina).Marca.Equals(this.marca) && (obj as Masina).model.Equals(this.model);
         public int CompareTo(object obj)
         {
             throw new NotImplementedException();
